@@ -32,7 +32,7 @@ User Query
 [Conversational Module]
     ↓
  ┌───────────────────┐        ┌────────────────────┐
- │    Spatial Module │◀─────▶│   Information      │
+ │    Spatial Module │◀─────▶ │   Information      │
  │  (Routing + OSM)  │        │   Retrieval Module │
  └───────────────────┘        │   (FAISS + Embeds) │
                               └────────────────────┘
