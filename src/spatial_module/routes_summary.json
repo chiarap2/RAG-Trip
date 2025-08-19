@@ -1,0 +1,666 @@
+{
+    "route_id": 0,
+    "from": "Notre-dame, Paris",
+    "to": "Louvre museum, Paris",
+    "length_tot_m": 2527.23,
+    "time_to_walk_tot_min": 30.45,
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue for 123 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 1.48,
+            "time_to_destination_min": 28.97,
+            "distance_from_origin_m": 122.79,
+            "distance_to_destination_m": 2404.44
+        },
+        {
+            "segment_id": 1,
+            "instruction": "Continue for 4 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 1.52,
+            "time_to_destination_min": 28.93,
+            "distance_from_origin_m": 126.53,
+            "distance_to_destination_m": 2400.7
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Continue for 5 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 1.59,
+            "time_to_destination_min": 28.86,
+            "distance_from_origin_m": 131.73,
+            "distance_to_destination_m": 2395.5
+        },
+        {
+            "segment_id": 3,
+            "instruction": "Turn left after 18 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 1.8,
+            "time_to_destination_min": 28.65,
+            "distance_from_origin_m": 149.75,
+            "distance_to_destination_m": 2377.48
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn slight right after 6 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 1.87,
+            "time_to_destination_min": 28.58,
+            "distance_from_origin_m": 155.29,
+            "distance_to_destination_m": 2371.94
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Continue for 92 meters",
+            "POIs": {
+                "amenity": {
+                    "restaurant": [
+                        "Cr\u00eaperie du Clo\u00eetre"
+                    ]
+                },
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 2.98,
+            "time_to_destination_min": 27.47,
+            "distance_from_origin_m": 247.4,
+            "distance_to_destination_m": 2279.83
+        },
+        {
+            "segment_id": 6,
+            "instruction": "Continue for 39 meters",
+            "POIs": {
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 3.46,
+            "time_to_destination_min": 26.99,
+            "distance_from_origin_m": 286.84,
+            "distance_to_destination_m": 2240.39
+        },
+        {
+            "segment_id": 7,
+            "instruction": "Continue for 2 meters",
+            "POIs": {
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 3.48,
+            "time_to_destination_min": 26.97,
+            "distance_from_origin_m": 288.53,
+            "distance_to_destination_m": 2238.7
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Continue for 60 meters",
+            "POIs": {
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 4.2,
+            "time_to_destination_min": 26.25,
+            "distance_from_origin_m": 348.69,
+            "distance_to_destination_m": 2178.54
+        },
+        {
+            "segment_id": 9,
+            "instruction": "Turn right after 45 meters",
+            "POIs": {
+                "tourism": {
+                    "museum": [
+                        "Crypte Arch\u00e9ologique du Parvis Notre-Dame"
+                    ]
+                }
+            },
+            "time_from_origin_min": 4.74,
+            "time_to_destination_min": 25.71,
+            "distance_from_origin_m": 393.77,
+            "distance_to_destination_m": 2133.46
+        },
+        {
+            "segment_id": 10,
+            "instruction": "Continue for 6 meters",
+            "POIs": {},
+            "time_from_origin_min": 4.81,
+            "time_to_destination_min": 25.64,
+            "distance_from_origin_m": 399.36,
+            "distance_to_destination_m": 2127.87
+        },
+        {
+            "segment_id": 11,
+            "instruction": "Continue for 103 meters",
+            "POIs": {},
+            "time_from_origin_min": 6.05,
+            "time_to_destination_min": 24.4,
+            "distance_from_origin_m": 502.56,
+            "distance_to_destination_m": 2024.67
+        },
+        {
+            "segment_id": 12,
+            "instruction": "Continue for 3 meters",
+            "POIs": {},
+            "time_from_origin_min": 6.1,
+            "time_to_destination_min": 24.35,
+            "distance_from_origin_m": 505.9,
+            "distance_to_destination_m": 2021.33
+        },
+        {
+            "segment_id": 13,
+            "instruction": "Continue for 47 meters",
+            "POIs": {},
+            "time_from_origin_min": 6.66,
+            "time_to_destination_min": 23.79,
+            "distance_from_origin_m": 552.95,
+            "distance_to_destination_m": 1974.28
+        },
+        {
+            "segment_id": 14,
+            "instruction": "Continue for 3 meters",
+            "POIs": {},
+            "time_from_origin_min": 6.7,
+            "time_to_destination_min": 23.75,
+            "distance_from_origin_m": 555.75,
+            "distance_to_destination_m": 1971.48
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Continue for 56 meters",
+            "POIs": {},
+            "time_from_origin_min": 7.37,
+            "time_to_destination_min": 23.08,
+            "distance_from_origin_m": 611.9,
+            "distance_to_destination_m": 1915.33
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn left after 22 meters",
+            "POIs": {},
+            "time_from_origin_min": 7.63,
+            "time_to_destination_min": 22.82,
+            "distance_from_origin_m": 633.65,
+            "distance_to_destination_m": 1893.58
+        },
+        {
+            "segment_id": 17,
+            "instruction": "Turn right after 181 meters",
+            "POIs": {},
+            "time_from_origin_min": 9.81,
+            "time_to_destination_min": 20.64,
+            "distance_from_origin_m": 814.35,
+            "distance_to_destination_m": 1712.88
+        },
+        {
+            "segment_id": 18,
+            "instruction": "Continue for 7 meters",
+            "POIs": {},
+            "time_from_origin_min": 9.89,
+            "time_to_destination_min": 20.56,
+            "distance_from_origin_m": 821.21,
+            "distance_to_destination_m": 1706.02
+        },
+        {
+            "segment_id": 19,
+            "instruction": "Turn left after 175 meters",
+            "POIs": {},
+            "time_from_origin_min": 12.0,
+            "time_to_destination_min": 18.45,
+            "distance_from_origin_m": 995.88,
+            "distance_to_destination_m": 1531.35
+        },
+        {
+            "segment_id": 20,
+            "instruction": "Keep right",
+            "POIs": {},
+            "time_from_origin_min": 12.04,
+            "time_to_destination_min": 18.41,
+            "distance_from_origin_m": 999.62,
+            "distance_to_destination_m": 1527.61
+        },
+        {
+            "segment_id": 21,
+            "instruction": "Keep right",
+            "POIs": {},
+            "time_from_origin_min": 12.38,
+            "time_to_destination_min": 18.07,
+            "distance_from_origin_m": 1027.83,
+            "distance_to_destination_m": 1499.4
+        },
+        {
+            "segment_id": 22,
+            "instruction": "Continue for 17 meters",
+            "POIs": {},
+            "time_from_origin_min": 12.59,
+            "time_to_destination_min": 17.86,
+            "distance_from_origin_m": 1044.87,
+            "distance_to_destination_m": 1482.36
+        },
+        {
+            "segment_id": 23,
+            "instruction": "Continue for 12 meters",
+            "POIs": {},
+            "time_from_origin_min": 12.73,
+            "time_to_destination_min": 17.72,
+            "distance_from_origin_m": 1056.5,
+            "distance_to_destination_m": 1470.73
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right after 9 meters",
+            "POIs": {},
+            "time_from_origin_min": 12.84,
+            "time_to_destination_min": 17.61,
+            "distance_from_origin_m": 1065.6,
+            "distance_to_destination_m": 1461.63
+        },
+        {
+            "segment_id": 25,
+            "instruction": "Continue for 124 meters",
+            "POIs": {},
+            "time_from_origin_min": 14.33,
+            "time_to_destination_min": 16.12,
+            "distance_from_origin_m": 1189.66,
+            "distance_to_destination_m": 1337.57
+        },
+        {
+            "segment_id": 26,
+            "instruction": "Continue for 3 meters",
+            "POIs": {},
+            "time_from_origin_min": 14.37,
+            "time_to_destination_min": 16.08,
+            "distance_from_origin_m": 1193.04,
+            "distance_to_destination_m": 1334.19
+        },
+        {
+            "segment_id": 27,
+            "instruction": "Continue for 3 meters",
+            "POIs": {},
+            "time_from_origin_min": 14.41,
+            "time_to_destination_min": 16.04,
+            "distance_from_origin_m": 1196.38,
+            "distance_to_destination_m": 1330.85
+        },
+        {
+            "segment_id": 28,
+            "instruction": "Turn sharp left after 7 meters",
+            "POIs": {},
+            "time_from_origin_min": 14.49,
+            "time_to_destination_min": 15.96,
+            "distance_from_origin_m": 1202.89,
+            "distance_to_destination_m": 1324.34
+        },
+        {
+            "segment_id": 29,
+            "instruction": "Keep right",
+            "POIs": {},
+            "time_from_origin_min": 14.65,
+            "time_to_destination_min": 15.8,
+            "distance_from_origin_m": 1216.15,
+            "distance_to_destination_m": 1311.08
+        },
+        {
+            "segment_id": 30,
+            "instruction": "Continue for 43 meters",
+            "POIs": {},
+            "time_from_origin_min": 15.17,
+            "time_to_destination_min": 15.28,
+            "distance_from_origin_m": 1259.02,
+            "distance_to_destination_m": 1268.21
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Continue for 296 meters",
+            "POIs": {},
+            "time_from_origin_min": 18.74,
+            "time_to_destination_min": 11.71,
+            "distance_from_origin_m": 1555.16,
+            "distance_to_destination_m": 972.07
+        },
+        {
+            "segment_id": 32,
+            "instruction": "Turn right after 29 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.08,
+            "time_to_destination_min": 11.37,
+            "distance_from_origin_m": 1584.03,
+            "distance_to_destination_m": 943.2
+        },
+        {
+            "segment_id": 33,
+            "instruction": "Turn left after 7 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.16,
+            "time_to_destination_min": 11.29,
+            "distance_from_origin_m": 1590.54,
+            "distance_to_destination_m": 936.69
+        },
+        {
+            "segment_id": 34,
+            "instruction": "Turn right after 9 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.27,
+            "time_to_destination_min": 11.18,
+            "distance_from_origin_m": 1599.29,
+            "distance_to_destination_m": 927.94
+        },
+        {
+            "segment_id": 35,
+            "instruction": "Turn left after 16 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.46,
+            "time_to_destination_min": 10.99,
+            "distance_from_origin_m": 1614.97,
+            "distance_to_destination_m": 912.26
+        },
+        {
+            "segment_id": 36,
+            "instruction": "Continue for 4 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.5,
+            "time_to_destination_min": 10.95,
+            "distance_from_origin_m": 1618.71,
+            "distance_to_destination_m": 908.52
+        },
+        {
+            "segment_id": 37,
+            "instruction": "Continue for 22 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.76,
+            "time_to_destination_min": 10.69,
+            "distance_from_origin_m": 1640.21,
+            "distance_to_destination_m": 887.02
+        },
+        {
+            "segment_id": 38,
+            "instruction": "Continue for 7 meters",
+            "POIs": {},
+            "time_from_origin_min": 19.84,
+            "time_to_destination_min": 10.61,
+            "distance_from_origin_m": 1646.72,
+            "distance_to_destination_m": 880.51
+        },
+        {
+            "segment_id": 39,
+            "instruction": "Keep right",
+            "POIs": {},
+            "time_from_origin_min": 19.89,
+            "time_to_destination_min": 10.56,
+            "distance_from_origin_m": 1650.77,
+            "distance_to_destination_m": 876.46
+        },
+        {
+            "segment_id": 40,
+            "instruction": "Continue for 58 meters",
+            "POIs": {},
+            "time_from_origin_min": 20.59,
+            "time_to_destination_min": 9.86,
+            "distance_from_origin_m": 1708.94,
+            "distance_to_destination_m": 818.29
+        },
+        {
+            "segment_id": 41,
+            "instruction": "Continue for 25 meters",
+            "POIs": {},
+            "time_from_origin_min": 20.89,
+            "time_to_destination_min": 9.56,
+            "distance_from_origin_m": 1733.49,
+            "distance_to_destination_m": 793.74
+        },
+        {
+            "segment_id": 42,
+            "instruction": "Continue for 9 meters",
+            "POIs": {},
+            "time_from_origin_min": 20.99,
+            "time_to_destination_min": 9.46,
+            "distance_from_origin_m": 1742.55,
+            "distance_to_destination_m": 784.68
+        },
+        {
+            "segment_id": 43,
+            "instruction": "Keep right",
+            "POIs": {},
+            "time_from_origin_min": 21.02,
+            "time_to_destination_min": 9.43,
+            "distance_from_origin_m": 1744.78,
+            "distance_to_destination_m": 782.45
+        },
+        {
+            "segment_id": 44,
+            "instruction": "Turn right after 54 meters",
+            "POIs": {},
+            "time_from_origin_min": 21.68,
+            "time_to_destination_min": 8.77,
+            "distance_from_origin_m": 1799.19,
+            "distance_to_destination_m": 728.04
+        },
+        {
+            "segment_id": 45,
+            "instruction": "Continue for 91 meters",
+            "POIs": {},
+            "time_from_origin_min": 22.77,
+            "time_to_destination_min": 7.68,
+            "distance_from_origin_m": 1890.31,
+            "distance_to_destination_m": 636.92
+        },
+        {
+            "segment_id": 46,
+            "instruction": "Turn right after 2 meters",
+            "POIs": {},
+            "time_from_origin_min": 22.8,
+            "time_to_destination_min": 7.65,
+            "distance_from_origin_m": 1892.34,
+            "distance_to_destination_m": 634.89
+        },
+        {
+            "segment_id": 47,
+            "instruction": "Continue for 83 meters",
+            "POIs": {},
+            "time_from_origin_min": 23.8,
+            "time_to_destination_min": 6.65,
+            "distance_from_origin_m": 1975.35,
+            "distance_to_destination_m": 551.88
+        },
+        {
+            "segment_id": 48,
+            "instruction": "Turn right after 10 meters",
+            "POIs": {},
+            "time_from_origin_min": 23.92,
+            "time_to_destination_min": 6.53,
+            "distance_from_origin_m": 1985.74,
+            "distance_to_destination_m": 541.49
+        },
+        {
+            "segment_id": 49,
+            "instruction": "Turn left after 1 meters",
+            "POIs": {},
+            "time_from_origin_min": 23.94,
+            "time_to_destination_min": 6.51,
+            "distance_from_origin_m": 1986.85,
+            "distance_to_destination_m": 540.38
+        },
+        {
+            "segment_id": 50,
+            "instruction": "Continue for 66 meters",
+            "POIs": {},
+            "time_from_origin_min": 24.74,
+            "time_to_destination_min": 5.71,
+            "distance_from_origin_m": 2053.3,
+            "distance_to_destination_m": 473.93
+        },
+        {
+            "segment_id": 51,
+            "instruction": "Continue for 4 meters",
+            "POIs": {},
+            "time_from_origin_min": 24.78,
+            "time_to_destination_min": 5.67,
+            "distance_from_origin_m": 2056.86,
+            "distance_to_destination_m": 470.37
+        },
+        {
+            "segment_id": 52,
+            "instruction": "Turn left onto Place du Louvre after 31 meters",
+            "POIs": {},
+            "time_from_origin_min": 25.15,
+            "time_to_destination_min": 5.3,
+            "distance_from_origin_m": 2087.53,
+            "distance_to_destination_m": 439.7
+        },
+        {
+            "segment_id": 53,
+            "instruction": "Turn right after 8 meters",
+            "POIs": {},
+            "time_from_origin_min": 25.24,
+            "time_to_destination_min": 5.21,
+            "distance_from_origin_m": 2095.08,
+            "distance_to_destination_m": 432.15
+        },
+        {
+            "segment_id": 54,
+            "instruction": "Turn left after 171 meters",
+            "POIs": {},
+            "time_from_origin_min": 27.3,
+            "time_to_destination_min": 3.15,
+            "distance_from_origin_m": 2265.88,
+            "distance_to_destination_m": 261.35
+        },
+        {
+            "segment_id": 55,
+            "instruction": "Turn slight right after 36 meters",
+            "POIs": {},
+            "time_from_origin_min": 27.73,
+            "time_to_destination_min": 2.72,
+            "distance_from_origin_m": 2301.61,
+            "distance_to_destination_m": 225.62
+        },
+        {
+            "segment_id": 56,
+            "instruction": "Turn left after 35 meters",
+            "POIs": {},
+            "time_from_origin_min": 28.15,
+            "time_to_destination_min": 2.3,
+            "distance_from_origin_m": 2336.3,
+            "distance_to_destination_m": 190.93
+        },
+        {
+            "segment_id": 57,
+            "instruction": "Turn slight right after 112 meters",
+            "POIs": {},
+            "time_from_origin_min": 29.5,
+            "time_to_destination_min": 0.95,
+            "distance_from_origin_m": 2448.41,
+            "distance_to_destination_m": 78.82
+        },
+        {
+            "segment_id": 58,
+            "instruction": "Turn sharp right after 26 meters",
+            "POIs": {},
+            "time_from_origin_min": 29.82,
+            "time_to_destination_min": 0.63,
+            "distance_from_origin_m": 2474.74,
+            "distance_to_destination_m": 52.49
+        },
+        {
+            "segment_id": 59,
+            "instruction": "Continue for 20 meters",
+            "POIs": {},
+            "time_from_origin_min": 30.06,
+            "time_to_destination_min": 0.39,
+            "distance_from_origin_m": 2494.92,
+            "distance_to_destination_m": 32.31
+        },
+        {
+            "segment_id": 60,
+            "instruction": "Continue for 32 meters",
+            "POIs": {},
+            "time_from_origin_min": 30.45,
+            "time_to_destination_min": 0,
+            "distance_from_origin_m": 2527.24,
+            "distance_to_destination_m": 0
+        },
+        {
+            "segment_id": 61,
+            "instruction": "Arrive at destination",
+            "POIs": {},
+            "time_from_origin_min": 30.84,
+            "time_to_destination_min": 0,
+            "distance_from_origin_m": 2559.56,
+            "distance_to_destination_m": 0
+        },
+        {
+            "segment_id": 62,
+            "instruction": "Arrive at destination",
+            "POIs": {},
+            "time_from_origin_min": 31.23,
+            "time_to_destination_min": 0,
+            "distance_from_origin_m": 2591.88,
+            "distance_to_destination_m": 0
+        }
+    ]
+}
